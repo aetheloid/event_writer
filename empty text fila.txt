@@ -1,0 +1,1 @@
+https://d-fens.ch/2018/04/09/howto-send-mails-and-create-calendar-entries-with-the-office365-exchange-2016-rest-api-using-powershell/
